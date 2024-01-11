@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robert Allen Jr</h1>
-<h3 align="center">A passionate frontend developer from Atlanta, GA</h3>
+<h3 align="center">A passionate Software Engineer from Atlanta, GA</h3>
 
 - 🔭 I’m currently working on **Healthy Baby App**
 
