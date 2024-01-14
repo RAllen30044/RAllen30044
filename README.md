@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **backend/Databases**
 
-- 💬 Ask me about **React, HTML, CSS, JavaScript**
+- 💬 Ask me about **React, HTML, CSS, JavaScript, TypeScript**
 
 - 📫 How to reach me **Rallen30044@outlook.com**
 
