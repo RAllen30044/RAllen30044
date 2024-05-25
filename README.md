@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Healthy Baby App**
 
-- 🌱 I’m currently learning **backend/Databases**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React, HTML, CSS, JavaScript, TypeScript**
+- 💬 Ask me about **React, HTML, CSS, JavaScript, TypeScript, Prisma, Express**
 
 - 📫 How to reach me **Robertallen0044@outlook.com**
 
