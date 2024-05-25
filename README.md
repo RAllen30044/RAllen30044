@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, HTML, CSS, JavaScript, TypeScript**
 
-- 📫 How to reach me **Rallen30044@outlook.com**
+- 📫 How to reach me **Robertallen0044@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
