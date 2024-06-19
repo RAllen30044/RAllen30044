@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robert Allen Jr</h1>
-<h3 align="center">Software Engineer from Atlanta, GA, changing people's lives one line of code at a time</h3>
+<h3 align="center">Software Engineer from Atlanta, GA, Improving people's lives one line of code at a time</h3>
 
 - 🔭 I’m currently working on **Kiddo Mobile Kronicles App**
 
