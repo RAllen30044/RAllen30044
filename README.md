@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Robert Allen Jr</h1>
-<h3 align="center">A passionate Software Engineer from Atlanta, GA</h3>
+<h3 align="center">Software Engineer from Atlanta, GA, changing people's lives one line of code at a time</h3>
 
 - 🔭 I’m currently working on **Healthy Baby App**
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React, HTML, CSS, JavaScript, TypeScript, Prisma, Express**
+- 💬 Ask me about **React, HTML, CSS, JavaScript, TypeScript, Prisma, Express, Node**
 
 - 📫 How to reach me **Robertallen0044@outlook.com**
 
