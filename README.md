@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React, HTML, CSS, JavaScript, TypeScript, Prisma, Express, Node**
+- 💬 Ask me about **React, HTML, CSS, JavaScript, TypeScript, Prisma, Express, Node, Sqlite**
 
-- 📫 How to reach me **Robertallen0044@outlook.com**
+- 📫 How to reach me **Robertallen.dev@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
