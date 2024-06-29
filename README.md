@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robert Allen Jr</h1>
-<h3 align="center">Software Engineer from Atlanta, GA, Improving people's lives one line of code at a time</h3>
+<h3 align="center">Software Engineer from Atlanta, GA, Improving lives one code at a time</h3>
 
-- 🔭 I’m currently working on **Kiddo Mobile Kronicles App**
+- 🔭 I’m currently working on **Kiddo Kronicles Mobile App**
 
 - 🌱 I’m currently learning **React Native, Flask**
 
@@ -20,5 +20,6 @@
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> </a>
 
 </p>
