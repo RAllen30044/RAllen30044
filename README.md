@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Kiddo Mobile Kronicles App**
 
-- 🌱 I’m currently learning **React Native, Python, Flask**
+- 🌱 I’m currently learning **React Native, Flask**
 
 - 💬 Ask me about **React, HTML, CSS, JavaScript, TypeScript, Prisma, Express, Node, Sqlite**
 
